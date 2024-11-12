@@ -1,5 +1,7 @@
 # seed128
 
+SEED128을 flutter로 변경한 코드입니다. 자유롭게 사용하십시오.
+
 Seed128 Flutter project.
 
 This is applied with flutter.
